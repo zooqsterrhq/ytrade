@@ -14,3 +14,6 @@ The app will have the following learning modules:
 Users accumulate points through progressing on learning paths on the app, which can be put towards in-app purchases.
 
 We nurture the next-gen of knowledgable traders, the financially-independent of the future.
+
+Link for the guide on how to launch your GitHub site for a private repository:
+https://help.github.com/en/github/administering-a-repository/setting-repository-visibility 
