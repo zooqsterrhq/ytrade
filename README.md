@@ -13,6 +13,13 @@ The app will have the following learning modules:
 
 Users accumulate points through progressing on learning paths on the app, which can be put towards in-app purchases.
 
+# Plan for Y Trade (this plan will definitely change over time, but this is the first overall plan)
+1. Create the app
+2. Start getting traction on the app through digital marketing, SEO etc.
+3. Onboard schools (grade 8-12) to use our software to educate students. (can move on to Uni onboarding once this is tackled iA)
+4. Onboard trading mentors to freelance on the platform
+5. Create a platform for traders where they can custom make stock trading algorithms with user-friendly drag and drop UI, for a more affordable price than most companies right now. The trading bots will be targeted to day traders, not the big players. We want to democratize wealth through this product (either one time cost to create one algorithm OR bundle of multiple algorithms for cheaper than getting them solo OR monthly membership of some sort).
+
 We nurture the next-gen of knowledgable traders, the financially-independent of the future.
 
 Link for the guide on how to launch your GitHub site for a private repository:
