@@ -3,7 +3,10 @@ Y Trade is a gamified learning platform for youth interested in trading.
 
 Users will complete a short survey (using typeform) which will rank them on one of three learning streams: Beginner, Intermediate, and Advanced. The three learning streams will have different content for learning pathways, respective to the specific streams. 
 
-The app will have the following learning modules: 
+The app will have the following learning modules:
+
+.# Keep all of the learning modules locked until the user completes a “Maximum Retention” module of some sort. In this short module, we will go over teaching the user how to take notes during the course, and ways that they can retain the most through their own unique practices of retaining their learnings.
+
 1. Trading knowledge (reading charts, S/L + T/P, etc.)
 2. Crypto/Blockchain
 3. Financial knowledge for stock trading (risk management and more) 
